@@ -259,7 +259,7 @@ export class AppComponent implements OnInit{
       links: {
         live: '#',     // add your live demo URL
         github: 'https://github.com/virajchokhany/Realtime-Chat-App',   // add your repo URL
-        demo: 'https://drive.google.com/file/d/1al7NfJ_FaVwnCYcbZLTkkmgTG9ZWlri-/view',     // add demo video URL if any
+        demo: 'https://drive.google.com/file/d/13adgm_a7rYcZo7YgN0VI8kdbS9EoOpgp/view',     // add demo video URL if any
       },
       bullets: [
         'Built a real-time chat system with authentication, group messaging, and WebSocket-based communication.',
